@@ -1,6 +1,6 @@
 name: bip32
 description: A BIP32 (https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) compatible library for Flutter writing by Dart.
-version: 2.0.0
+version: 2.0.1
 homepage: https://github.com/mofalabs/bip32
 
 environment:
